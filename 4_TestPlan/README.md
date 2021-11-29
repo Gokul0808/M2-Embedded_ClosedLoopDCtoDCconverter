@@ -1,11 +1,11 @@
 # TEST PLAN:
-## Table no: High level test plan
+## Table : High level test plan
 |Test| ID	Description|	Exp I/P|	Exp O/P|	Actual OutPut|	Type of Test|
 |--|--|--|--|--|--|
 HLT_01					
 HLT_02					
 HLT_03					
-## Table no: Low level test plan
+## Table : Low level test plan
 |Test| ID	Description|	Exp I/P|	Exp O/P|	Actual OutPut|	Type of Test|
 |--|--|--|--|--|--|
 LLR_01					
