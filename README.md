@@ -1,5 +1,10 @@
 # M2-Embedded_ClosedLoopDCtoDCconverter
 
+CI and Code Quality
+|Build|Cppcheck|	Codacy|
+|--|--|--|
+|-|-|-|
+
 # Folder Structure
 |Folder|	Description|
 |--|--|
@@ -9,6 +14,7 @@
 4_TestplanAndOutput|	Documents with test plans and outputs
 5_Report|	Documentation of whole project
 6_ImagesAndVideos|	All the output images and Videos of this project
+
 
 ## Contributors List and Summary
 |PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
