@@ -1,5 +1,6 @@
 # M2-Embedded_ClosedLoopDCtoDCconverter
-
+  A DC-to-DC converter is an electronic circuit or electromechanical device that converts a source of direct current (DC) from one voltage level to another. It is a type of electric power converter. Power levels range from very low (small batteries) to very high (high-voltage power transmission). 
+  
 CI and Code Quality
 |Build|Cppcheck|	Codacy|
 |--|--|--|
