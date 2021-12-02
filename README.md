@@ -18,8 +18,9 @@ CI and Code Quality
 
 
 ## Contributors List and Summary
-|PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
-|--|--|--|--|--|--|--|
-40020551|	Gokulakrishnan R  
+|PS No.|	Name| Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
+|--|--|--|--|--|--|
+|40020551|	Gokulakrishnan R | 2|2|7|7|
 
-## Challenges Faced and How Was It Overcame
+
+
