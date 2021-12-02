@@ -4,7 +4,7 @@
 CI and Code Quality
 |Build|Cppcheck|	Codacy|
 |--|--|--|
-|-|-|-|
+|[![Build](https://github.com/Gokul0808/M2-Embedded_ClosedLoopDCtoDCconverter/actions/workflows/compile.yml/badge.svg)](https://github.com/Gokul0808/M2-Embedded_ClosedLoopDCtoDCconverter/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/Gokul0808/M2-Embedded_ClosedLoopDCtoDCconverter/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Gokul0808/M2-Embedded_ClosedLoopDCtoDCconverter/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f1b28992797145e692d190e6a3915b8c)](https://www.codacy.com/gh/Gokul0808/M2-Embedded_ClosedLoopDCtoDCconverter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gokul0808/M2-Embedded_ClosedLoopDCtoDCconverter&amp;utm_campaign=Badge_Grade)|
 
 # Folder Structure
 |Folder|	Description|
