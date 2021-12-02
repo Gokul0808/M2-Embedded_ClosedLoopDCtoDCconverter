@@ -13,6 +13,9 @@
 ## SIMULATION
 ![Screenshot (115)](https://user-images.githubusercontent.com/94180547/144373741-52e00c9e-33d4-4bf9-a547-c56397f252dd.png)
 
+# RESULT
+![Screenshot (116)](https://user-images.githubusercontent.com/94180547/144374325-e6514495-822e-4fd5-b124-cace5057d00c.png)
+
 
 
 
