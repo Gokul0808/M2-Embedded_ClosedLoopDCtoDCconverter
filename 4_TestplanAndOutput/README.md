@@ -8,6 +8,5 @@ HLT_03|Oscilloscope| Input Pulses| PWM pulse generated| PWM pulse generated|scen
 ## Table : Low level test plan
 |Test| ID	Description|	Exp I/P|	Exp O/P|	Actual OutPut|	Type of Test|
 |--|--|--|--|--|--|
-LLR_01|			
-LLR_02					
-LLR_03					
+LLR_01|Output voltage| 12|34|34|Passed|
+LLR_02|Duty cycle|60%|Square wave|Square Wave|passed|									
